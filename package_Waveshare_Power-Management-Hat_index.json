@@ -16,8 +16,8 @@
                     "category": "Contributed",
                     "url": "https://github.com/dsittner/WS-Power-Management-Hat/raw/main/PowerManagementHAT.7z",
                     "archiveFileName": "PowerManagementHAT.7z",
-                    "checksum": "SHA-256:da46a616eb861c53e8f072753b344db36836bb07a110633fd1a2c9dd7d725cff",
-                    "size": "3089258",
+                    "checksum": "SHA-256:bd218dc35fa89baf99d31ae24ceae566385c338784f244450654d98b35448720",
+                    "size": "3089356",
                     "help": {
                         "online": "https://www.waveshare.com/wiki/Power_Management_HAT"
                     },
