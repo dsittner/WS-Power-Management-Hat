@@ -11,7 +11,7 @@
             "platforms": [
                 {
                     "name": "Waveshare Power Management Hat",
-                    "architecture": "avr",
+                    "architecture": "PowerManagementHAT",
                     "version": "1.6.20",
                     "category": "Contributed",
                     "url": "https://github.com/dsittner/WS-Power-Management-Hat/raw/main/PowerManagementHAT.zip",
